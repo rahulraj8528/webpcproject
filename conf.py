@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'QUICKBOOKS DESKTOP'
+project = 'Project'
 author = 'Author'
 
 # -- General configuration ---------------------------------------------------
